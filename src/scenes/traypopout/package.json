@@ -15,7 +15,7 @@
     "react": "16.2.0",
     "react-activity": "1.2.2",
     "react-addons-shallow-compare": "15.6.2",
-    "react-dom": "16.2.0",
+    "react-dom": "16.2.1",
     "react-infinite": "0.12.1",
     "react-swipeable-views": "0.12.13",
     "react-timeago": "3.4.3"

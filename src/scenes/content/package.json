@@ -12,7 +12,7 @@
     "react": "16.2.0",
     "react-activity": "1.2.2",
     "react-addons-shallow-compare": "15.6.2",
-    "react-dom": "16.2.0",
+    "react-dom": "16.2.1",
     "react-portal-tooltip": "2.3.0",
     "react-timer-mixin": "0.13.3",
     "uuid": "3.2.1"
